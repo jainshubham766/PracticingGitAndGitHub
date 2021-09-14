@@ -6,6 +6,7 @@ class NewFile2
 {
     public static void main (String[] args) throws java.lang.Exception
     {
-                System.out.println("HelloWorld);
+                System.out.println("HelloWorld");
+                    System.out.println("This is the new Added Features in NewFile");
     }
 }
